@@ -1,4 +1,4 @@
-* RPS (Rock, paper, scissor)
+[*] RPS (Rock, paper, scissor)
     * PVP
     * PVB
 * RPG Bot
